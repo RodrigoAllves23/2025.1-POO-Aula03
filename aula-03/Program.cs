@@ -2,7 +2,7 @@
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Televisao tvSala = new Televisao(22);
+Televisao tvSala = new Televisao(22); //Objeto o que e get set?
 
 //tvSala.Tamanho = 100; Não roda pois deixamos a classe privada
 
